@@ -1,0 +1,10 @@
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\bin\Debug\STH.FingopayTerminalDemo.Pos.exe.config
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\bin\Debug\STH.FingopayTerminalDemo.Pos.exe
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\bin\Debug\STH.FingopayTerminalDemo.Pos.pdb
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\obj\Debug\STH.FingopayTerminalDemo.Pos.csprojAssemblyReference.cache
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\obj\Debug\STH.FingopayTerminalDemo.Pos.Properties.Resources.resources
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\obj\Debug\STH.FingopayTerminalDemo.Pos.csproj.GenerateResource.cache
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\obj\Debug\STH.FingopayTerminalDemo.Pos.csproj.CoreCompileInputs.cache
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\obj\Debug\STH.FingopayTerminalDemo.Pos.exe
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\obj\Debug\STH.FingopayTerminalDemo.Pos.pdb
+C:\Projects\sthaler\sthalerv3\epos-demo-desktop\STH.FingopayTerminalDemo\STH.FingopayTerminalDemo.Pos\obj\Debug\STH.FingopayTerminalDemo.Pos.FingopayPosTerminal.resources
